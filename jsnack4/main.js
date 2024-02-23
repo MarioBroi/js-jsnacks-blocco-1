@@ -21,6 +21,7 @@ for (let index = 0; index < guestList.length; index++) {
 
     if (userName === guestList[index]) {
         reply = "You can join"
+        break;
     }
 
 }
