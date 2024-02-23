@@ -28,4 +28,4 @@ for (let index = 0; index < guestList.length; index++) {
 
 //- dai una risposta all'utente
 
-console.log(login);
+console.log(reply);
